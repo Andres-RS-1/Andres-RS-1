@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Andres-RS-1.
 - 👀 I’m studying systems/software engineering at EAN University.
-- 🌱 I am currently refreshing my knowledge in Python, Java, HTML, CSS, Javascript, MySQL, MongoDB, MATLAB and many more things.
+- 🌱 I’m currently refreshing my knowledge in Python, Java, HTML, CSS, Javascript, MySQL, MongoDB, MATLAB and many more things.
 - 💞️ I’m looking to collaborate on software projects, web applications, desktop applications, in general a little bit of everything.
 - 📫 You can contact me on </>:
 - 
