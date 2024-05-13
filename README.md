@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Andrés Rincón Sánchez
+- 👋 Hi, I’m Andres-RS-1.
 - 👀 I’m studying systems/software engineering at EAN University.
 - 🌱 I’am currently learning Python, Java, HTML, CSS, MySQL, MongoDB, MATLAB and many more things.
 - 💞️ I’m looking to collaborate on software projects, web applications, desktop applications, in general a little bit of everything.
-- 📫 You can contact me on:
+- 📫 You can contact me on </>:
 - 
 - public class Message {
 - . . . . public String linkedinUrl = "www.linkedin.com/in/andres-rincon-sanchez/" ;
