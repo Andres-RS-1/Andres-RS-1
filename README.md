@@ -4,8 +4,8 @@
 - 💞️ I’m looking to collaborate on software projects, web applications, desktop applications, in general a little bit of everything.
 - 📫 You can contact me on
 - public class Message {
-     public String linkedinUrl = "https://linkedin.com/in/andres-rincon-sanchez";
-    public String email = "arincon71292@universidadean.edu.co";
+_     public String linkedinUrl = "https://linkedin.com/in/andres-rincon-sanchez";
+_    public String email = "arincon71292@universidadean.edu.co";
 }
 
 <!---
