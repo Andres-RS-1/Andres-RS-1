@@ -5,7 +5,7 @@
 - 📫 You can contact me on:
 - 
 - public class Message {
-- . . . . public String linkedinUrl = "https://www.linkedin.com/in/andres-rincon-sanchez/" ;
+- . . . . public String linkedinUrl = "www.linkedin.com/in/andres-rincon-sanchez/" ;
 - . . . . public String email = "arincon71292@universidadean.edu.co" ;
 - .
 - . . . . public Message(String linkedinUrl, String email) {
