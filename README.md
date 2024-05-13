@@ -10,11 +10,11 @@
 
 - . . . . public Message(String linkedinUrl, String email) {
 - . . . . . . . . . this.linkedinUrl = linkedinUrl;
-- . . . . . . . . . . . this.email = email;
+- . . . . . . . . . this.email = email;
 - . . . . public static void main(String[] args) {
-- . . . . . . . . . . . Message message = new Message("https://linkedin.com/in/andres-rincon-sanchez", "arincon71292@universidadean.edu.co");
-- . . . . . . . . . . . System.out.println("URL de LinkedIn: " + message.linkedinUrl);
-- . . . . . . . . . . . System.out.println("Correo electrónico: " + message.email);
+- . . . . . . . . . Message message = new Message("https://linkedin.com/in/andres-rincon-sanchez", "arincon71292@universidadean.edu.co");
+- . . . . . . . . . System.out.println("URL de LinkedIn: " + message.linkedinUrl);
+- . . . . . . . . . System.out.println("Correo electrónico: " + message.email);
 - . . . . }
 - }
 <!---
