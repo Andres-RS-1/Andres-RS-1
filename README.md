@@ -7,7 +7,7 @@
 - public class Message {
 - . . . . public String linkedinUrl = "https://www.linkedin.com/in/andres-rincon-sanchez/" ;
 - . . . . public String email = "arincon71292@universidadean.edu.co" ;
-
+- .
 - . . . . public Message(String linkedinUrl, String email) {
 - . . . . . . . . . this.linkedinUrl = linkedinUrl;
 - . . . . . . . . . this.email = email;
