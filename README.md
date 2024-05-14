@@ -10,7 +10,6 @@
 - . . . . . . . . String email = "arincon71292@universidadean.edu.co";
 - . . . . . . . . System.out.println("LinkedIn URL: " + linkedinUrl);
 - . . . . . . . . System.out.println("Email: " + email);
-- .
 - . . . . . . . . System.out.println();
 - . . . . . . . . System.out.println("thanks for reading me! ");
 - . . . . }
