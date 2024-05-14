@@ -5,17 +5,14 @@
 - 📫 You can contact me on </>:
 - 
 - public class Message {
-- . . . . public String linkedinUrl = "www.linkedin.com/in/andres-rincon-sanchez/" ;
-- . . . . public String email = "arincon71292@universidadean.edu.co" ;
-- 
-- . . . . public Message(String linkedinUrl, String email) {
-- . . . . . . . . this.linkedinUrl = linkedinUrl;
-- . . . . . . . . this.email = email;
-- }
 - . . . . public static void main(String[] args) {
-- . . . . . . . . Message message = new Message("www.linkedin.com/in/andres-rincon-sanchez/", "arincon71292@universidadean.edu.co");
-- . . . . . . . . System.out.println("URL de LinkedIn: " + message.linkedinUrl);
-- . . . . . . . . System.out.println("Correo electrónico: " + message.email);
+- . . . . . . . . String linkedinUrl = "linkedin.com/in/andres-rincon-sanchez/";
+- . . . . . . . . String email = "arincon71292@universidadean.edu.co";
+- . . . . . . . . System.out.println("LinkedIn URL: " + linkedinUrl);
+- . . . . . . . . System.out.println("Email: " + email);
+- .
+- . . . . . . . . System.out.println();
+- . . . . . . . . System.out.println("thanks for reading me! ");
 - . . . . }
 - }
 <!---
