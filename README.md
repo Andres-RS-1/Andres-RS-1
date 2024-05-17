@@ -6,7 +6,7 @@
 - /*
 - public class Message {
 - . . . . public static void main(String[] args) {
-- . . . . . . . . String linkedinUrl = "linkedin.com/in/andres-rincon-sanchez/";
+- . . . . . . . . String linkedinUrl = "www.linkedin.com/in/andres-rincon-sanchez/";
 - . . . . . . . . String email = "arincon71292@universidadean.edu.co";
 - . . . . . . . . System.out.println("LinkedIn URL: " + linkedinUrl);
 - . . . . . . . . System.out.println("Email: " + email + "\n");
